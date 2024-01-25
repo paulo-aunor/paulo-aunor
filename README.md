@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- 🖥️ I’m primarily using C#, .NET, SQL, React and Node.js 
+- 🌱 I’m currently learning Python
+- 🤔 I’m a Full-Stack Developer with an interest in UI/UX
 <!--
 **paulo-aunor/paulo-aunor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
