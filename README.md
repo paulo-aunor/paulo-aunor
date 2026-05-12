@@ -29,4 +29,4 @@ B2B Integrations · Offline-First Architecture · Stored Procedures
 
 ---
 
-📌 **Current focus:** [pos-system](https://github.com/pauloaunordev/pos-system) — offline-first POS built
+📌 **Current focus:** [pos-system](https://github.com/paulo-aunor/pos-system) — offline-first POS built
