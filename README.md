@@ -1,21 +1,27 @@
-# Hey, I'm Ramon Paulo Aunor
+# Ramon Paulo Aunor
 
-I build offline-first POS and inventory systems for small businesses where unreliable internet makes commercial systems fail.
+Full-stack developer with 7 years of experience in retail, restaurant, and e-commerce systems. I build the software operators actually need, from the perspective of the person who used to get pinged at 2 am when it broke.
 
-7 years across Qatar and the Middle East supporting custom POS, ERP, and SAP at 50+ restaurant, retail, and e-commerce locations. Now moving into full-stack development, building the systems I wished existed when I was the one getting the 2am support call.
+Before I wrote code, I supported custom POS, ERP, and SAP across 50+ locations in Qatar and the Middle East. Now I build web apps, integrations, and offline-capable tools for the same kind of operators, with fewer 2am pages.
 
-🏗️ **Currently building** a custom POS, inventory, and reporting system for a snack house in the Philippines. 14-week project, real client, offline-first.
+## What I work on
 
-🎓 Computer Programming at Conestoga College (Jan 2026 to May 2027)
-🌍 Based in Canada, working remotely with clients globally
-📫 aunor.paulo@gmail.com · [LinkedIn](https://www.linkedin.com/in/your-handle)
+- **Line-of-business web apps** for retail, restaurants, and small operations
+- **POS, inventory, and reporting systems**, offline-first when the venue needs it
+- **B2B integrations** between POS, ERP, accounting, and e-commerce stacks
+- **Internal tools** that replace the spreadsheet-and-WhatsApp workflow
 
 ## Stack
 
-`React` · `Node.js` · `JavaScript` · `TypeScript` · `Python` · `C#` · `SQL`
-`IndexedDB / Dexie` · `Vite` · `PWA`  · `Next.js`  
+TypeScript · React · Node.js · Python · C# · SQL
+IndexedDB / Dexie · Vite · PWA · SheetJS · REST and event-driven integrations
 
-## Domains
+## Domain depth
 
-POS Systems · ERP Implementation · SAP · Restaurant Tech · Retail Tech
-B2B Integrations · Offline-First Architecture · Stored Procedures
+Point-of-sale · ERP implementation · SAP support · Restaurant and retail operations · B2B integrations · Offline-first architecture · Stored procedures and reporting
+
+## Now
+
+Computer Programming at Conestoga College (Jan 2026 – May 2029). Based in Canada, open to remote and Canadian on-site work.
+
+📫 aunor.paulo@gmail.com · [LinkedIn](https://www.linkedin.com/in/your-handle)
